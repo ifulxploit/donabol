@@ -28,5 +28,5 @@ Program Manajemen Donasi ini dilisensikan di bawah Lisensi MIT. Silakan lihat be
 
 ## Tentang Penulis
 
-Program Manajemen Donasi ini ditulis oleh [ifulxploit](https: ifulxploit.github.com). Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya melalui [ifulxploit@gmail.com](mailto: ifulxploit@gmail.com) atau melalui akun [ifulxploit](https://github.com/ifulxploit).
+Program Manajemen Donasi ini ditulis oleh [ifulxploit](https:ifulxploit.github.com). Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya melalui [ifulxploit@gmail.com](mailto: ifulxploit@gmail.com) atau melalui akun [ifulxploit](https://github.com/ifulxploit).
 
